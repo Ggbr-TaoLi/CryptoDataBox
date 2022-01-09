@@ -1,0 +1,4 @@
+#Sun Jan 09 09:46:20 CST 2022
+base.0=D\:\\Android\\Item\\CryptoDataBox\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
